@@ -1,0 +1,418 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="78df465c-9491-4615-ad68-958698f3288d" name="变更" comment="p2-t2-2" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <favorite-branches>
+      <branch-storage>
+        <map>
+          <entry type="LOCAL">
+            <value>
+              <list>
+                <branch-info repo="$PROJECT_DIR$/src/pre2" source="pre2_task2" />
+              </list>
+            </value>
+          </entry>
+        </map>
+      </branch-storage>
+    </favorite-branches>
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$/src/pre2" value="pre2_task2" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/src" />
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+    <option name="UPDATE_TYPE" value="REBASE" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$PROJECT_DIR$/../Maven-3.8.4" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="downloadAnnotationsAutomatically" value="true" />
+        <option name="downloadDocsAutomatically" value="true" />
+        <option name="downloadSourcesAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="delegateBuildToMaven" value="true" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectId" id="25Bda0xwfkIISnYhHvghPeR56fk" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="extract.method.default.visibility" value="private" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/exp3_public-main" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="工件" />
+    <property name="project.structure.proportion" value="0.17" />
+    <property name="project.structure.side.proportion" value="0.62528735" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.project.statistic.project.settings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="assignments.ii.i" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\OOProject\src\experiment" />
+      <recent name="D:\OOProject\src\test" />
+      <recent name="D:\OOProject\src\assignments\ii" />
+      <recent name="D:\OOProject\src\assignments\test" />
+      <recent name="D:\OOProject" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\OOProject" />
+      <recent name="D:\OOProject\src" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="pre.iii" />
+      <recent name="pre2" />
+    </key>
+  </component>
+  <component name="RunManager" selected="应用程序.Main (1)">
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="assignments.ii.i.Main" />
+      <module name="OOProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="assignments.ii.i.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="assignments.i.iii.Main" />
+      <module name="OOProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="assignments.i.iii.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="assignments.ii.i.Main" />
+      <module name="OOProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="assignments.ii.i.iohandler.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <module name="OOProject" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="应用程序.Main (1)" />
+        <item itemvalue="应用程序.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="78df465c-9491-4615-ad68-958698f3288d" name="变更" comment="" />
+      <created>1645004476283</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1645004476283</updated>
+      <workItem from="1645004477327" duration="13622000" />
+      <workItem from="1645156011084" duration="13666000" />
+      <workItem from="1645182079657" duration="1786000" />
+      <workItem from="1645189294163" duration="7736000" />
+      <workItem from="1645241045740" duration="6883000" />
+      <workItem from="1645340604964" duration="1573000" />
+      <workItem from="1645342449598" duration="20813000" />
+      <workItem from="1645418755045" duration="19312000" />
+      <workItem from="1645455614243" duration="1376000" />
+      <workItem from="1645519746784" duration="15131000" />
+      <workItem from="1645606318219" duration="1700000" />
+      <workItem from="1645976845803" duration="1167000" />
+      <workItem from="1646010144466" duration="7000" />
+      <workItem from="1646042970585" duration="259000" />
+      <workItem from="1646043244564" duration="16000" />
+      <workItem from="1646051780601" duration="2030000" />
+      <workItem from="1646095442624" duration="688000" />
+      <workItem from="1646123365363" duration="13817000" />
+      <workItem from="1646188087229" duration="2171000" />
+      <workItem from="1646190289364" duration="1901000" />
+      <workItem from="1646192217688" duration="7960000" />
+      <workItem from="1646213102477" duration="1448000" />
+      <workItem from="1646217094713" duration="14886000" />
+      <workItem from="1646265371034" duration="5327000" />
+      <workItem from="1646271774971" duration="6614000" />
+      <workItem from="1646278493757" duration="5469000" />
+      <workItem from="1646292404966" duration="4020000" />
+      <workItem from="1646298831077" duration="3468000" />
+      <workItem from="1646316322708" duration="101000" />
+      <workItem from="1646317776507" duration="2148000" />
+      <workItem from="1646319978610" duration="55000" />
+      <workItem from="1646322803408" duration="862000" />
+      <workItem from="1646362374566" duration="2137000" />
+      <workItem from="1646365068290" duration="262000" />
+      <workItem from="1646366771949" duration="31000" />
+      <workItem from="1646385107684" duration="182000" />
+      <workItem from="1646454715040" duration="55000" />
+      <workItem from="1646462774872" duration="10935000" />
+      <workItem from="1646534495500" duration="12802000" />
+      <workItem from="1646569019526" duration="119000" />
+      <workItem from="1646570917927" duration="887000" />
+      <workItem from="1646576642654" duration="2410000" />
+      <workItem from="1646579291089" duration="2823000" />
+      <workItem from="1646627226917" duration="30000" />
+      <workItem from="1646644013839" duration="1020000" />
+      <workItem from="1646649324492" duration="291000" />
+      <workItem from="1646653887298" duration="1575000" />
+      <workItem from="1646662053430" duration="983000" />
+      <workItem from="1646665793790" duration="1237000" />
+      <workItem from="1646701653032" duration="706000" />
+      <workItem from="1646714507037" duration="15756000" />
+      <workItem from="1646822114334" duration="8641000" />
+      <workItem from="1646832054047" duration="6456000" />
+      <workItem from="1646872833488" duration="1148000" />
+      <workItem from="1646877264210" duration="5143000" />
+      <workItem from="1646882746511" duration="5508000" />
+      <workItem from="1646900595925" duration="15076000" />
+      <workItem from="1646924209345" duration="3362000" />
+      <workItem from="1646965248932" duration="1913000" />
+      <workItem from="1646967191735" duration="17057000" />
+      <workItem from="1646995709676" duration="6373000" />
+      <workItem from="1647011222044" duration="4499000" />
+      <workItem from="1647057687516" duration="11377000" />
+      <workItem from="1647139551319" duration="4967000" />
+      <workItem from="1647185324203" duration="597000" />
+      <workItem from="1647261526060" duration="4360000" />
+      <workItem from="1647302421381" duration="3341000" />
+      <workItem from="1647313459903" duration="878000" />
+      <workItem from="1647317058987" duration="25278000" />
+      <workItem from="1647395303555" duration="10699000" />
+      <workItem from="1647425537273" duration="11803000" />
+      <workItem from="1647443784065" duration="3123000" />
+      <workItem from="1647448215312" duration="2000" />
+      <workItem from="1647474952919" duration="761000" />
+      <workItem from="1647479264979" duration="966000" />
+      <workItem from="1647488723596" duration="1694000" />
+      <workItem from="1647508717180" duration="3500000" />
+      <workItem from="1647526220917" duration="1864000" />
+      <workItem from="1647530241801" duration="1571000" />
+      <workItem from="1647573545340" duration="6261000" />
+      <workItem from="1647600706177" duration="4739000" />
+      <workItem from="1647608180722" duration="202000" />
+      <workItem from="1647658952174" duration="3036000" />
+      <workItem from="1647662049727" duration="73000" />
+      <workItem from="1647662143351" duration="8951000" />
+      <workItem from="1647682840453" duration="516000" />
+      <workItem from="1647683374587" duration="246000" />
+      <workItem from="1647686914198" duration="1017000" />
+      <workItem from="1647695340040" duration="35000" />
+      <workItem from="1647742685377" duration="3259000" />
+      <workItem from="1647788075304" duration="2775000" />
+      <workItem from="1647850547562" duration="7195000" />
+      <workItem from="1647861355212" duration="441000" />
+      <workItem from="1647872183975" duration="600000" />
+      <workItem from="1647876397400" duration="1837000" />
+      <workItem from="1647907114946" duration="3242000" />
+      <workItem from="1647920530456" duration="7922000" />
+      <workItem from="1648468654864" duration="966000" />
+      <workItem from="1648650179353" duration="3019000" />
+      <workItem from="1648684362877" duration="1281000" />
+      <workItem from="1648689386130" duration="8048000" />
+      <workItem from="1648699516567" duration="2554000" />
+      <workItem from="1648717953392" duration="7557000" />
+      <workItem from="1648791842060" duration="8861000" />
+      <workItem from="1648809990019" duration="6366000" />
+      <workItem from="1648827487178" duration="139000" />
+      <workItem from="1648903606110" duration="10157000" />
+      <workItem from="1648956701120" duration="5914000" />
+      <workItem from="1649026602169" duration="5867000" />
+    </task>
+    <task id="LOCAL-00001" summary="p2-t2-1">
+      <created>1645180653780</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1645180653780</updated>
+    </task>
+    <task id="LOCAL-00002" summary="p2-t2-2">
+      <created>1645181222693</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1645181222693</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="COLUMN_ID_ORDER">
+      <list>
+        <option value="Default.Root" />
+        <option value="Default.Author" />
+        <option value="Default.Date" />
+        <option value="Default.Subject" />
+        <option value="Space.CommitStatus" />
+      </list>
+    </option>
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="pre2_task2" />
+                </option>
+              </RecentGroup>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="master" />
+                </option>
+              </RecentGroup>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/src/pre_2022_2_20373167_pre2_task2" />
+      <path value="$PROJECT_DIR$/src/pre2" />
+      <path value="$PROJECT_DIR$/src/pre2/pre_2022_2_20373167_pre2_task1" />
+      <path value="$PROJECT_DIR$/src/pre2/pre_2022_2_20373167_pre2_task2" />
+    </ignored-roots>
+    <MESSAGE value="p2-t2-1" />
+    <MESSAGE value="p2-t2-2" />
+    <option name="LAST_COMMIT_MESSAGE" value="p2-t2-2" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.IllegalStateException" package="java.lang" />
+          <option name="timeStamp" value="4" />
+        </breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/assignments/i/iii/Main.java</url>
+          <line>23</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Pre2task1_java$Main_HW_1_2.ic" NAME="Main_HW_1_2 覆盖结果" MODIFIED="1646985712506" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>assignments.ii.entity.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/Pre2task1_java$Main.ic" NAME="Main 覆盖结果" MODIFIED="1647679523320" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>assignments.iii.*</FILTER>
+    </SUITE>
+  </component>
+</project>
